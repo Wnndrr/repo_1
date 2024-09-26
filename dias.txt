@@ -3,3 +3,4 @@ martes
 miercoles
 jueves tarde
 viernes tarde
+Esto es muy sencillo por ahora
